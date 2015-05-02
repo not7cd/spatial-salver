@@ -215,7 +215,7 @@ void drawDebug() {
 void drawAxis(x,y,length) {
     // x
     stroke(0,255,0);
-    line(x, y, length, length));
+    line(x, y, length, length);
     // y
     stroke(255,0,0);
     line(x, y, length, length);
